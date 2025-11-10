@@ -1,18 +1,17 @@
 # Hi, I'm Vahid Ghahremani 👋
 
-### Front-End Web Developer | Python Enthusiast
+### Front-End Web Developer | Vue.js 
 
 ---
 
-I'm a passionate front-end web developer with a strong foundation in creating dynamic and responsive web applications. My journey in web development is driven by a love for clean, efficient code and intuitive user experiences.
+I am a programmer specializing in JavaScript, with a strong focus on creating engaging and responsive visual elements using JavaScript and its core libraries . My main expertise lies in writing clean, optimized code, turning ideas into digital realities, and building functional user experiences . In addition to programming, I also have experience in user interface (UI) design, which complements my technical skills . This website—developed entirely with Vue.js and without relying on any external frameworks or libraries for UI or animations—offers a closer look at my work and approach . My goal is to craft seamless, responsive user experiences through elegant design and efficient, professional code
 
 ### 🛠️ Tech Stack
 
-- Languages: HTML, CSS, JavaScript, Python
-- Frameworks & Libraries: Bootstrap, Tailwind CSS
+- Languages: HTML, CSS, JavaScript
+- Frameworks & Libraries: Vue.js ,Tailwind CSS ,Bootstrap  
 - Preprocessors: Less, Sass
 - Design Tools: Figma, Photoshop, Illustrator
-- Currently Learning: Django
 
 ### 🌱 About Me
 
@@ -33,6 +32,6 @@ I'm a passionate front-end web developer with a strong foundation in creating dy
 
 ### ⚡️ Fun Fact
 
-I am 25 years old and my talent is in creating simple, comprehensible and responsive user interfaces. My journey in technology is focused on turning complex problems into simple and elegant solutions.
+I am 27 years old and my talent is in creating simple, comprehensible and responsive user interfaces. My journey in technology is focused on turning complex problems into simple and elegant solutions.
 
 Thanks for stopping by! Feel free to explore my repositories and connect with me.
